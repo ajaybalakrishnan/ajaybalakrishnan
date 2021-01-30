@@ -1,4 +1,4 @@
-![](https://github.com/https://github.com/ajaybalakrishnan/MyRepo/unending_passion.jpg)
+![](https://github.com/ajaybalakrishnan/MyRepo/unending_passion.jpg)
 ### Hey Folks, this is Ajay Balakrishnan:wave:
 ### A Badminton lover and Data Science Practitioner!
 
