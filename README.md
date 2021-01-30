@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### :rocket:Have a look at my stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gokulasanthiya29&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ajaybalakrishnan&show_icons=true&theme=merko)
 
 ### :dart:My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulasanthiya29&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybalakrishnan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
