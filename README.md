@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### :dart:My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybalakrishnan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-### Reach me on 
+### :octocat:Reach me on 
 You can find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
