@@ -1,8 +1,17 @@
 <h1> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> Hey Folks, this is <a href='https://github.com/ajaybalakrishnan'>Ajay Balakrishnan</a> </h1>
 
-### A Data Science Practitioner and Badminton lover!
+## A Data Science Practitioner and Badminton lover!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="50%">
 
+### About Me
+
+A self learner who is enthusiastic on developing new technologies that i learnt to solve the real world problems.
+
+* Familiar with Image Processing.
+* Interested in Computer Vision.
+* Currently, Studying Deep Learning Technologies.
+* A Badminton Player ,Captian of the College Team.
+* Running a academy on my own.
 <!--
 **ajaybalakrishnan/ajaybalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
