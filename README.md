@@ -1,7 +1,7 @@
 <h1> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> Hey Folks, this is <a href='https://github.com/ajaybalakrishnan'>Ajay Balakrishnan</a> </h1>
 
 ### A Data Science Practitioner and Badminton lover!
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height=25%>
 
 <!--
 **ajaybalakrishnan/ajaybalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
