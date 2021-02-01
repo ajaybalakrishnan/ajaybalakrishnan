@@ -1,8 +1,6 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 ### Hey Folks, this is Ajay Balakrishnan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 ### A Data Science Practitioner and Badminton lover!
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <!--
 **ajaybalakrishnan/ajaybalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
