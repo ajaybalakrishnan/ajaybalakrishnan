@@ -40,6 +40,8 @@ Here are some ideas to get you started:
     style="vertical-aling:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css"
     style="vertical-aling:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VScode"
+    style="vertical-aling:top; margin:4px">
 </p>
 
 
@@ -50,15 +52,18 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybalakrishnan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :octocat:Reach me on 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg (twitter icon without padding)
+[2.2]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg (LinkedIn icon without padding)
+[3.3]: https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/ajayabk/ (Kaggle icon without padding)
+[4.4]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg (Gmail Icon without Padding)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/ajaybalakrishn
 [2]: https://www.linkedin.com/in/ajaybalakrishnann
-
+[3]: https://www.kaggle.com/ajayabk
+[4]: mailto:ajaybalakrishnan2@gmail.com
