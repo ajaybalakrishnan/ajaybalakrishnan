@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[1.2]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg (twitter icon without padding)
+[1.2]: https://img.shields.io/twitter/url?style=social (twitter icon without padding)
 [2.2]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg (LinkedIn icon without padding)
-[3.3]: https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/ajayabk/ (Kaggle icon without padding)
+[3.3]: https://img.shields.io/twitter/url?style=social (Kaggle icon without padding)
 [4.4]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg (Gmail Icon without Padding)
 
 <!-- Links to your social media accounts -->
