@@ -7,18 +7,17 @@
 
 A self learner who is enthusiastic on developing new technologies that i learnt to solve the real world problems.
 
-* Familiar with Image Processing.
-* Interested in Computer Vision.
-* Currently, Studying Deep Learning Technologies.
-* A Badminton Player ,Captian of the College Team.
-* Running a academy on my own.
 <!--
 **ajaybalakrishnan/ajaybalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started: 
 -->
-
-- 🔭 I’m currently working on Handwriting Recognition:sunglasses:
+* Familiar with Image Processing.
+* Interested in Computer Vision.
+* Currently, Studying Deep Learning Technologies.
+* A Badminton Player ,Captian of the College Team.
+* Running a academy on my own.
+* 🔭 I’m currently working on Handwriting Recognition:sunglasses:
 <!--
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
@@ -28,6 +27,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :hammer_and_wrench:Tech Stack
+<p aling="center">
+    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java"
+    style="vertical-aling:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html"
+    style="vertical-aling:top; margin:4px">
+    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++"
+    style="vertical-aling:top; margin:4px">
+</p>
+
 
 ### :rocket:Have a look at my stats
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajaybalakrishnan&show_icons=true&theme=merko)
