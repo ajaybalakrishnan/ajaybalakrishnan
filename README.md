@@ -3,7 +3,7 @@
 ## A Data Science Practitioner and Badminton lover!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="50%">
 
-### :octocat:Reach me on 
+### :octocat: 📫 Reach me on 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GMAIL][5.5]][5]
 
 ### About Me
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 * A Badminton Player ,Captian of the College Team.
 * Running a academy on my own.
 * 🔭 I’m currently working on Handwriting Recognition:sunglasses:
+* 😄 Pronouns: ... <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" alt='he/him'>
 <!--
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
     style="vertical-aling:top; margin:4px">
     <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="c++"
     style="vertical-aling:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css"
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css"
     style="vertical-aling:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3%402x.png" alt="VScode"
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VScode"
     style="vertical-aling:top; margin:4px">
 </p>
 
