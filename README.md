@@ -52,14 +52,15 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybalakrishnan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :octocat:Reach me on 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4]
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GitHub][5.5]][5]
 
 <!-- Icons -->
 
-[1.2]: https://img.shields.io/twitter/url?style=social (twitter icon without padding)
-[2.2]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg (LinkedIn icon without padding)
+[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter icon without padding)
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon without padding)
 [3.3]: https://img.shields.io/badge/Kaggle-K-blue (Kaggle icon without padding)
-[4.4]: https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg (Gmail Icon without Padding)
+[4.4]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (Gmail Icon without Padding)
+[5.5]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white(Github Icon without padding)
 
 <!-- Links to your social media accounts -->
 
@@ -67,3 +68,4 @@ Here are some ideas to get you started:
 [2]: https://www.linkedin.com/in/ajaybalakrishnann
 [3]: https://www.kaggle.com/ajayabk
 [4]: mailto:ajaybalakrishnan2@gmail.com
+[5]: https://github.com/ajaybalakrishnan
