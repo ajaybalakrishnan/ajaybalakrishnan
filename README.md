@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybalakrishnan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :octocat:Reach me on 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GMAIL][4.5]][5]
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GMAIL][5.5]][5]
 
 <!-- Icons -->
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon without padding)
 [3.3]: https://img.shields.io/badge/Kaggle-K-blue (Kaggle icon without padding)
 [4.4]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (Gmail Icon without Padding)
-[4.5]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white(Github Icon without padding)
+[5.5]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (Github Icon without padding)
 
 <!-- Links to your social media accounts -->
 
