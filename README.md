@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     style="vertical-aling:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css"
     style="vertical-aling:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VScode"
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3%402x.png" alt="VScode"
     style="vertical-aling:top; margin:4px">
 </p>
 
