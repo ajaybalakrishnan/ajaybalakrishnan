@@ -1,8 +1,8 @@
 <h1> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> Hey Folks, this is <a href='https://github.com/ajaybalakrishnan'>Ajay Balakrishnan</a> </h1>
 
-## A Data Science Practitioner and Badminton lover! 
+## A Data Science Practitioner and Badminton lover <img alt="badminton_gif" src="https://github.com/ajaybalakrishnan/ajaybalakrishnan/blob/main/Images/Badminton.gif" height="100" width="100"> ! 
 
-<img alt="badminton_gif" src="https://github.com/ajaybalakrishnan/ajaybalakrishnan/blob/main/Images/Badminton.gif" height="100" width="100">
+
 <img align="right" alt="GIF" src="https://github.com/ajaybalakrishnan/ajaybalakrishnan/blob/main/Images/gif3.gif" width="50%">
 
 ### :octocat: 📫 Reach me on 
