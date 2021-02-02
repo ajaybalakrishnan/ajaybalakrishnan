@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 [1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter icon without padding)
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon without padding)
-[3.3]: https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/ajayabk/ (Kaggle icon without padding)
+[3.3]: https://img.shields.io/badge/Kaggle-1877F2?style=for-the-badge&logo=kaggle&logoColor=white (Kaggle icon without padding)
 [4.4]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (Gmail Icon without Padding)
 [5.5]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (Github Icon without padding)
 
