@@ -7,6 +7,9 @@
 
 A self learner who is enthusiastic on developing new technologies that i learnt to solve the real world problems.
 
+### :octocat:Reach me on 
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GMAIL][5.5]][5]
+
 <!--
 **ajaybalakrishnan/ajaybalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
@@ -50,9 +53,6 @@ Here are some ideas to get you started:
 
 ### :dart:My Language Hub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybalakrishnan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-### :octocat:Reach me on 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GMAIL][5.5]][5]
 
 <!-- Icons -->
 
