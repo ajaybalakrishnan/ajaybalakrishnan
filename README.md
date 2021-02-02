@@ -3,12 +3,13 @@
 ## A Data Science Practitioner and Badminton lover!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="50%">
 
+### :octocat:Reach me on 
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GMAIL][5.5]][5]
+
 ### About Me
 
 A self learner who is enthusiastic on developing new technologies that i learnt to solve the real world problems.
 
-### :octocat:Reach me on 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![KAGGLE][3.3]][3] [![GMAIL][4.4]][4] [![GMAIL][5.5]][5]
 
 <!--
 **ajaybalakrishnan/ajaybalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
