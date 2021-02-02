@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * A Badminton Player ,Captian of the College Team.
 * Running a academy on my own.
 * 🔭 I’m currently working on Handwriting Recognition:sunglasses:
-* 😄 Pronouns: ... <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" alt='he/him'>
+* 😄 Pronouns: ... He/Him
 <!--
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
