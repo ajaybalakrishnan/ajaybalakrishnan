@@ -2,7 +2,7 @@
 
 ## A Data Science Practitioner and Badminton lover! 
 
-<img alt="badminton_gif" src="https://github.com/ajaybalakrishnan/ajaybalakrishnan/blob/main/Images/Badminton.gif" width="25%">
+<img alt="badminton_gif" src="https://github.com/ajaybalakrishnan/ajaybalakrishnan/blob/main/Images/Badminton.gif" height="4" width="4">
 <img align="right" alt="GIF" src="https://github.com/ajaybalakrishnan/ajaybalakrishnan/blob/main/Images/gif3.gif" width="50%">
 
 ### :octocat: 📫 Reach me on 
