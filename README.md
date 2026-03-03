@@ -26,6 +26,7 @@ I enjoy building reliable software, designing scalable test frameworks, and unde
 ### 💻 Programming
 - Python
 - Bash
+- Golang
 
 ### 🤖 AI & Image Work
 - Image-based AI systems
