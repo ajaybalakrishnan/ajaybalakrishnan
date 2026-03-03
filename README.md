@@ -28,6 +28,13 @@ I enjoy building reliable software, designing scalable test frameworks, and unde
 - Bash
 - Golang
 
+### Software & Middleware Development
+ - Backend service development
+ - API layer design
+ - System integration
+ - Middleware components
+ - Distributed systems concepts (Kafka focus)
+
 ### 🤖 AI & Image Work
 - Image-based AI systems
 - Model integration & validation
@@ -45,7 +52,6 @@ I enjoy building reliable software, designing scalable test frameworks, and unde
 - Git & GitHub
 - Linux & Windows
 - VS Code
-- IntelliJ IDEA
 - Notepad++
 
 ---
