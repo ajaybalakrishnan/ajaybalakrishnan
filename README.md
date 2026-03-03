@@ -12,12 +12,12 @@ I am a Software Engineer with a strong foundation in **Python, automation, and b
 
 I enjoy building reliable software, designing scalable test frameworks, and understanding systems from the ground up.
 
-- 🔹 Passionate about building clean and maintainable software
-- 🔹 Strong in Python-based backend & automation development
-- 🔹 Experience working on AI systems involving image processing
-- 🔹 Deep interest in distributed systems (Kafka, system internals)
-- 🔹 Structured thinker — I prefer designing before coding
-- 🔹 Love debugging and solving complex system issues
+- Passionate about building clean and maintainable software
+- Strong in Python-based backend & automation development
+- Experience working on AI systems involving image processing
+- Deep interest in distributed systems (Kafka, system internals)
+- Structured thinker — I prefer designing before coding
+- Love debugging and solving complex system issues
 
 ---
 
